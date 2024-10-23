@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6414071323772542768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1160795219800414082}
+  m_Layer: 0
+  m_Name: Rampa com conectores
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1160795219800414082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414071323772542768}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 29.33571, y: 2.74045, z: 27.773407}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8127496076031010266}
+  - {fileID: 1770217196891757045}
+  - {fileID: 1708114657593435403}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &4024049876482338478
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1160795219800414082}
+    m_Modifications:
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.41428947
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.74045
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.193407
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8413136733535430328, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_Name
+      value: "Conex\xE3oRampa Variant"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aaf5b8db87464fd48b131c3221f6606f, type: 3}
+--- !u!4 &1770217196891757045 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+    type: 3}
+  m_PrefabInstance: {fileID: 4024049876482338478}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4106489118586098256
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1160795219800414082}
+    m_Modifications:
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.0857105
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.22655
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.846592
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8413136733535430328, guid: aaf5b8db87464fd48b131c3221f6606f,
+        type: 3}
+      propertyPath: m_Name
+      value: "Conex\xE3oRampa Variant (1)"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aaf5b8db87464fd48b131c3221f6606f, type: 3}
+--- !u!4 &1708114657593435403 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3407359199329023835, guid: aaf5b8db87464fd48b131c3221f6606f,
+    type: 3}
+  m_PrefabInstance: {fileID: 4106489118586098256}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4524445087043299598
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1160795219800414082}
+    m_Modifications:
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.0857105
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7404499
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.1737423
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8936347913346153119, guid: 28ccecc424f7b364f9a08e5e735730ec,
+        type: 3}
+      propertyPath: m_Name
+      value: RampaT3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28ccecc424f7b364f9a08e5e735730ec, type: 3}
+--- !u!4 &8127496076031010266 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5620672978729536724, guid: 28ccecc424f7b364f9a08e5e735730ec,
+    type: 3}
+  m_PrefabInstance: {fileID: 4524445087043299598}
+  m_PrefabAsset: {fileID: 0}
